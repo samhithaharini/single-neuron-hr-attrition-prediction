@@ -4,12 +4,12 @@ This project predicts whether an employee will leave the company using a **Singl
 
 ---
 
-## 📌 Objective
+##  Objective
 To understand how a single neuron works in Deep Learning by implementing it using Logistic Regression and validating it with a manual prediction function.
 
 ---
 
-## 🧠 Concept
+##  Concept
 
 A single neuron computes:
 
@@ -23,7 +23,7 @@ Where:
 
 ---
 
-## 📊 Dataset Features
+##  Dataset Features
 
 - satisfaction_level  
 - last_evaluation  
@@ -37,7 +37,7 @@ Where:
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 
 1. Data preprocessing (handling categorical variables using get_dummies)  
 2. Train-test split  
@@ -48,7 +48,7 @@ Where:
 
 ---
 
-## 🔍 Key Insight
+##  Key Insight
 
 Logistic Regression behaves like a **single neuron**:
 - Linear combination of inputs  
@@ -56,14 +56,14 @@ Logistic Regression behaves like a **single neuron**:
 
 ---
 
-## 📈 Output
+##  Output
 
 - Predicts whether an employee will leave (1) or stay (0)  
 - Provides probability using sigmoid function  
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas  
@@ -72,7 +72,7 @@ Logistic Regression behaves like a **single neuron**:
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 
 This project demonstrates the fundamental working of a neuron, forming the base for understanding deep learning models.
 
